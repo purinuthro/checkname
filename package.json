@@ -14,5 +14,12 @@
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
